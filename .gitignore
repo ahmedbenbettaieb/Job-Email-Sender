@@ -24,3 +24,6 @@ resume*
 # OS
 .DS_Store
 Thumbs.db
+
+generate_personalized_emails.py
+generate_laravel_personalized_emails.py
