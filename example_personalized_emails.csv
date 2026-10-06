@@ -1,0 +1,9 @@
+Company,Email,Website,ResearchSummary,Subject,Body,ResearchStatus
+Example Company Inc,contact@example.com,https://example.com,"Brief company research summary goes here.","Application - Developer Role","Dear [Hiring Team Name or Title],
+
+I'm interested in joining Example Company Inc...
+
+Best regards,
+Your Name
+your.email@example.com
+",done

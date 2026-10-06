@@ -1,0 +1,26 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Personal/resume files
+*.pdf
+CV_*
+resume*
+
+# Data files - keep examples
+*.csv
+!example_jobs.csv
+!example_personalized_emails.csv
+!example_laravel_jobs.csv
+!example_laravel_personalized_emails.csv
+
+# OS
+.DS_Store
+Thumbs.db
